@@ -1,7 +1,7 @@
-# Rentify Henry-Project
+# PF-Henry-Project
 <div align='center'>
 
-<h1>Hotels</h1>
+<h1>Rentify </h1>
 <p>An app in which users can find hotels from all around the world and make reservations and leave reviews </p>
 
 <h4> <span> · </span> <a href="https://github.com/MicaelaSolorzano/PF-Henry-Project/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/MicaelaSolorzano/PF-Henry-Project/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/MicaelaSolorzano/PF-Henry-Project/issues"> Request Feature </a> </h4>
